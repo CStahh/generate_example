@@ -1,0 +1,72 @@
+{
+  "layers": [
+    {
+      "name": "Background Color",
+      "attributes": [
+        {
+          "name": "Blue.png",
+          "weight": 10
+        },
+        {
+          "name": "Green.png",
+          "weight": 10
+        },
+        {
+          "name": "Grey.png",
+          "weight": 10
+        },
+        {
+          "name": "Red.png",
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "name": "Background Shape",
+      "attributes": [
+        {
+          "name": "Circle.png",
+          "weight": 10
+        },
+        {
+          "name": "Square.png",
+          "weight": 10
+        },
+        {
+          "name": "Triangle.png",
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "name": "Border Style",
+      "attributes": [
+        {
+          "name": "Fancy Border.png",
+          "weight": 10
+        },
+        {
+          "name": "Plain Border.png",
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "name": "Emoji Expression",
+      "attributes": [
+        {
+          "name": "Angry.png",
+          "weight": 10
+        },
+        {
+          "name": "Happy.png",
+          "weight": 10
+        },
+        {
+          "name": "Sad.png",
+          "weight": 10
+        }
+      ]
+    }
+  ]
+}

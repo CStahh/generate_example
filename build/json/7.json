@@ -1,0 +1,26 @@
+{
+  "id": "e28665198643c279692310baa8606efabe311c48",
+  "name": "#7",
+  "description": "Generate Test",
+  "image": "ipfs://QmThdTBCR8DsnXMViDGC13EH9NughYzJrk7VjaAsRBmhX8/7.png",
+  "edition": 7,
+  "date": 1649339682605,
+  "attributes": [
+    {
+      "trait_type": "Background Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background Shape",
+      "value": "Triangle"
+    },
+    {
+      "trait_type": "Border Style",
+      "value": "Plain Border"
+    },
+    {
+      "trait_type": "Emoji Expression",
+      "value": "Happy"
+    }
+  ]
+}

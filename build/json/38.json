@@ -1,0 +1,26 @@
+{
+  "id": "1de93b12f804e5c6c90427d41dbd08cf2ca1ab5f",
+  "name": "#38",
+  "description": "Generate Test",
+  "image": "ipfs://QmThdTBCR8DsnXMViDGC13EH9NughYzJrk7VjaAsRBmhX8/38.png",
+  "edition": 38,
+  "date": 1649339684126,
+  "attributes": [
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background Shape",
+      "value": "Triangle"
+    },
+    {
+      "trait_type": "Border Style",
+      "value": "Fancy Border"
+    },
+    {
+      "trait_type": "Emoji Expression",
+      "value": "Angry"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "48d6da6b67adbee02080552e74298e63029d9320",
+  "name": "#24",
+  "description": "Generate Test",
+  "image": "ipfs://QmThdTBCR8DsnXMViDGC13EH9NughYzJrk7VjaAsRBmhX8/24.png",
+  "edition": 24,
+  "date": 1649339683359,
+  "attributes": [
+    {
+      "trait_type": "Background Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Background Shape",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "Border Style",
+      "value": "Fancy Border"
+    },
+    {
+      "trait_type": "Emoji Expression",
+      "value": "Happy"
+    }
+  ]
+}

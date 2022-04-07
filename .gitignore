@@ -9,8 +9,8 @@
 /coverage
 
 # production
-/build
-/settings/rarity.json
+#/build
+#/settings/rarity.json
 
 # misc
 .DS_Store
